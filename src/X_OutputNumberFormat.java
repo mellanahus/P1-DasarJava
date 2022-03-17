@@ -1,5 +1,6 @@
 // percobaan untuk format keluaran menggunakan objek formatter
 
+
 import java.text.NumberFormat;
 public class X_OutputNumberFormat {
     public static void main(String[] args) {
